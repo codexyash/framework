@@ -87,8 +87,8 @@
         "pda/pheanstalk": "^4.0",
         "phpunit/phpunit": "^7.5|^8.0",
         "predis/predis": "^1.1.1",
-        "symfony/css-selector": "^4.2",
-        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "5.4",
+        "symfony/dom-crawler": "5.4",
         "true/punycode": "^2.1"
     },
     "autoload": {
